@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="com.cts.dto.CustomerDto"/>
+    <fullyQualifiedTypeName name="com.cts.exception.CustomerNotFoundException"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="com.cts.exception.TradeNotFoundException"/>
+    <fullyQualifiedTypeName name="com.cts.entities.Customer"/>
+    <fullyQualifiedTypeName name="com.cts.dto.UpdateCustomerDto"/>
+    <fullyQualifiedTypeName name="jakarta.validation.constraints.DecimalMax"/>
+    <fullyQualifiedTypeName name="com.cts.entities.Trading"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
+    <fullyQualifiedTypeName name="jakarta.validation.constraints.NotNull"/>
+    <fullyQualifiedTypeName name="jakarta.validation.constraints.NotBlank"/>
+    <fullyQualifiedTypeName name="com.cts.dto.UpdateTradeDto"/>
+    <fullyQualifiedTypeName name="com.cts.exception.TradeErrorException"/>
+    <fullyQualifiedTypeName name="org.hibernate.annotations.Target"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="com.cts.dto.TradingDto"/>
+</qualifiedTypeNameHistroy>
